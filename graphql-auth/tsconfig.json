@@ -3,8 +3,7 @@
     "esModuleInterop": true,
     "outDir": "dist",
     "rootDir": "src",
-    "lib": ["esnext"],
-    "strict": true
+    "lib": ["ESNext"],
   },
   "include": ["src/**/*"]
 }
