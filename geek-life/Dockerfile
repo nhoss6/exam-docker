@@ -13,5 +13,5 @@ FROM alpine:latest
 
 COPY --from=build /app/geek-life /usr/local/bin/geek-life
 
-
+# test
 CMD ["geek-life"]
