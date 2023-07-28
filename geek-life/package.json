@@ -1,0 +1,11 @@
+{
+  "name": "geek-life",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r     <img src=\"media/geek-life-logo.png\" align=\"center\" alt=\"Geek-life Logo\">\r </p>\r <h1 align=\"center\"> The CLI To-Do List / Task Manager for Geeks </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

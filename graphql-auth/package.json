@@ -37,5 +37,9 @@
   },
   "prisma": {
     "seed": "ts-node prisma/seed.ts"
-  }
+  },
+  "description": "This example shows how to implement a **GraphQL server with TypeScript** with the following stack:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": ""
 }
